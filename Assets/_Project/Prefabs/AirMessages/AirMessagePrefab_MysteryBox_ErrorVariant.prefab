@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7506312649304933818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412678, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412679, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_Name
+      value: AirMessagePrefab_MysteryBox_ErrorVariant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243526412679, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1562487243703956887, guid: bd2c8cb7e18524829b96370359621b44,
+        type: 3}
+      propertyPath: m_text
+      value: 'Oops! Looks like you''ve already opened 5 Mystery Boxes today.
+
+
+        Check
+        back again tomorrow to open more!
+
+
+
+'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd2c8cb7e18524829b96370359621b44, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a27d85506e4de2498d267d226afe908, type: 3}
+  m_Name: WaterBuilder
+  m_EditorClassIdentifier: 
+  _builderName: Water
+  _minLOD: 0
+  _maxLOD: 17
+  _mapLayer: 9
+  _features: 4500000002000000010000001900000020000000530000003a000000
+  _materials:
+  - {fileID: 2100000, guid: 254395e3c38f64dfda5377eaa7145189, type: 2}
+  _zOffset: 0.0002
