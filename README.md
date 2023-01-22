@@ -1,18 +1,3 @@
-# Planet X Unity Prototype
+# SkyLine
 
-A testbed for new ideas and features to incorporate into the Planet X app.
-
-## Current Features
-
-- Mystery Box Concept
-    - Direct Placement
-    - Remote Placement
-    
-## Known Issues
-
-- There seem to be some inconsistencies when placing models remotely, like models not always showing up and excessive drift, especially when viewing the models in a different session than the one they were created in.
-
-## Things to Test
-
-- Remote Placement from distant locations
-- Consistency in model positions between different sessions
+SkyLine is an augmented reality app that shows the progression of the skyline in New York City over the next 10 years or so. The app displays proposed highrises in their correct locations, superimposed on existing buildings, and provides a glimpse into the future of the city's architecture. 
