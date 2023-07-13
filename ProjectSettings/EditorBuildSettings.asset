@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/_Project/Scenes/OrthographicMap.unity
     guid: 5a6d1efcafec547488aaae446ba519d5
   - enabled: 1
-    path: Assets/_Project/Scenes/Tower_TimeMachine.unity
+    path: Assets/__SkyLine/Scenes/SkyLine.unity
     guid: ab666da49bdfc4dc483fe97bee6f0f26
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0514855e02ca7492e97dd6d20d41864a, type: 2}
